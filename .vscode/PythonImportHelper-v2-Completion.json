@@ -1,0 +1,11 @@
+[
+    {
+        "label": "Circle",
+        "kind": 6,
+        "importPath": "classes",
+        "description": "classes",
+        "peekOfCode": "class Circle:\n    def __init__(self, radius):\n        self.radius = radius\n    def area(self):\n        return 3.14 * (self.radius * 2)\n# y = Circle(10)\n# print(\"Area of circle:\",y.area())",
+        "detail": "classes",
+        "documentation": {}
+    }
+]
